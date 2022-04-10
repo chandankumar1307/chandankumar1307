@@ -1,16 +1,74 @@
-### Hi there 👋
+<p alignItems="center"><a href="https://anuraghazra.github.io"><img width="100%" src="./assets/ChandanBanner.png" /></a></p>
 
-<!--
-**chandankumar1307/chandankumar1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<h1>🤷‍♂️Who am I?</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, DevOps Engineer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+---
+
+ <h1> A little more about me...<img src="https://media1.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47b3p6tmdc5oz80q6p5j0c8ht80xth1s4au1gijteh&rid=giphy.gif&ct=s" width="50"></h2>
+
+```javascript
+const Chandan = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "C++"],
+  askMeAbout: ["Web Dev", "Tech", "App Dev", "Music"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
+    },
+    mobileApp: {
+      native: ["React Native"],
+    },
+    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+    databases: ["mongo", "MySql", "sqlite"],
+    misc: ["Firebase", "Socket.IO", , "open-cv"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "Getting my hands dirty with DevOps",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
+};
+```
+
+---
+
+<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
+
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1307&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1307" /> </p>
+
+<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandankumar1307&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="chandankumar1307" /></p>
+<br />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumar1307&theme=dark-smoky&hide_border=true" alt="chandankumar1307" /></p>
+<br />
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandankumar1307&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="chandankumar1307" /></p>
+
+<br />
+
+ <h2> Stuff I worked on last week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+
+---
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
+</a>
+<br />
+<br>
+<h1> Connect with me </h1>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/chandan_1307?label=Follow)](https://twitter.com/intent/follow?screen_name=chandan_1307)
+[![Linkedin: Chandan](https://img.shields.io/badge/-Chandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandan-kumar-899842196/)](https://www.linkedin.com/in/chandan-kumar-899842196/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chandankumarsaha.netlify.app//)](https://chandankumarsaha.netlify.app/)
+
+<br />
