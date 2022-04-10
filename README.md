@@ -1,4 +1,4 @@
-<p alignItems="center"><a href="https://anuraghazra.github.io"><img width="100%" src="./assets/ChandanBanner.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" src="./assets/ChandanBannerCropped.png" /></a></p>
 
 <br />
 
