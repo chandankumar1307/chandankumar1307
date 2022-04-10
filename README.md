@@ -22,7 +22,7 @@ const Chandan = {
     mobileApp: {
       native: ["React Native"],
     },
-    devOps: ["AWS", "Docker🐳"],
+    devOps: ["AWS", "Docker"],
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "Socket.IO", , "open-cv"],
   },
