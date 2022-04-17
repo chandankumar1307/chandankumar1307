@@ -57,8 +57,9 @@ const Chandan = {
 
  <h2> Stuff I worked on last week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <br />
- [![wakatime](https://wakatime.com/badge/user/c3a737b3-999f-4e72-a0db-73ffec0862ef.svg)](https://wakatime.com/@c3a737b3-999f-4e72-a0db-73ffec0862ef)
+ 
 </h2>
+[![wakatime](https://wakatime.com/badge/user/c3a737b3-999f-4e72-a0db-73ffec0862ef.svg)](https://wakatime.com/@c3a737b3-999f-4e72-a0db-73ffec0862ef)
 
 ---
 
