@@ -55,20 +55,7 @@ const Chandan = {
 
 <br />
 
- <h2> Stuff I worked on last week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
-<br />
- 
-</h2>
-[![wakatime](https://wakatime.com/badge/user/c3a737b3-999f-4e72-a0db-73ffec0862ef.svg)](https://wakatime.com/@c3a737b3-999f-4e72-a0db-73ffec0862ef)
 
----
-
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
-</a>
-<br />
-<br>
 <h1> Connect with me </h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chandan_1307?label=Follow)](https://twitter.com/intent/follow?screen_name=chandan_1307)
