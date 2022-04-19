@@ -22,7 +22,7 @@ const Chandan = {
     mobileApp: {
       native: ["React Native"],
     },
-    devOps: ["AWS", "Docker🐳"],
+    devOps: ["AWS", "Docker"],
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "Socket.IO", , "open-cv"],
   },
@@ -55,13 +55,11 @@ const Chandan = {
 
 <br />
 
- <h2> Stuff I worked on last week <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-
 ---
 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
+<img align="center" src="https://github-readme-stats.vercel.app/7ec58f54-2e8b-48fd-af33-c1af9c0d712c/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
 </a>
 <br />
 
