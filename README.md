@@ -57,14 +57,6 @@ const Chandan = {
 
 ---
 
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/7ec58f54-2e8b-48fd-af33-c1af9c0d712c/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
-</a>
-<br />
-
-<h2>Languages I worked on last week :- </h2>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
