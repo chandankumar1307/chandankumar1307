@@ -64,6 +64,12 @@ const Chandan = {
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@chandankumar1307&compact=True&theme=dark&theme_"/>
 </a>
 <br />
+
+<h2>Languages I worked on last week :- </h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 <h1> Connect with me </h1>
 
