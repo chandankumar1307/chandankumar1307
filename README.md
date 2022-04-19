@@ -58,6 +58,16 @@ const Chandan = {
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   6 hrs 4 mins    ███████████████▒░░░░░░░░░   61.19 %
+Java         2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+Bash         1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
