@@ -62,7 +62,10 @@ const Chandan = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 12 mins
+
+YAML         10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.76 %
+Other        5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.11 %
 ```
 
 <!--END_SECTION:waka-->
