@@ -57,17 +57,9 @@ const Chandan = {
 
 ---
 
-<h2> Languages I workd on Last week :- </h2>
+<h2> Total Coding time</h2>
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/c3a737b3-999f-4e72-a0db-73ffec0862ef.svg)](https://wakatime.com/@c3a737b3-999f-4e72-a0db-73ffec0862ef)
 
 <br>
 <h1> Connect with me </h1>
